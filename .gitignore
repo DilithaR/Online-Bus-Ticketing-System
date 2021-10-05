@@ -1,0 +1,11 @@
+/backend/.env
+/management-dashboard/package-lock.json
+/package-lock.json
+/website/package-lock.json
+/user-mobile-app/package-lock.json
+/user-mobile-app/.expo/
+/user-mobile-app/node_modules/
+/mobile_app_ticket_inspector/package-lock.json
+/mobile_app_ticket_inspector/.expo/
+/mobile_app_ticket_inspector/node_modules/
+/conductor-app/package-lock.json
